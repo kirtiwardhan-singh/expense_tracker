@@ -1,16 +1,61 @@
-# expense_tracker
+# 💸 Expense Tracker App (Flutter)
 
-A new Flutter project.
+A clean, responsive expense tracking application built using **Flutter**, with **Hive** for local storage and **Provider** for state management.
 
-## Getting Started
+> ✅ Developed as part of an internship evaluation project for **Inspired Grow Pvt. Ltd.**
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ Add new expense entries (Title, Amount, Date)
+- ✅ Delete expenses with one tap
+- ✅ See real-time total expense summary
+- ✅ Offline storage with Hive (persists data across restarts)
+- ✅ State management using Provider
+- ✅ Beautiful UI with clean Material Design
+- ✅ Runs on Android, iOS, Windows, and Web
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Screenshots
+
+| Home Page | Add Expense |
+|-----------|-------------|
+| ![Home](assets/screenshot1.png) | ![Add Expense](assets/screenshot2.png) |
+
+> 💡 Save your screenshots in an `assets/` folder and update paths above.
+
+---
+
+## 🛠 Tech Stack
+
+- **Flutter** (UI toolkit)
+- **Dart** (programming language)
+- **Hive** (lightweight key-value DB)
+- **Provider** (state management)
+- **VS Code** (development environment)
+
+---
+
+## 🧪 Getting Started
+
+To run the app locally:
+
+### 🔧 Prerequisites
+- Flutter SDK installed
+- VS Code / Android Studio
+- Git
+
+### 📦 Installation Steps
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/kirtiwardhan-singh/expense_tracker.git
+cd expense_tracker
+
+# 2. Install packages
+flutter pub get
+
+# 3. Run the app
+flutter run
