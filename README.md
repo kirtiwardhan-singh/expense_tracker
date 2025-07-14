@@ -20,11 +20,7 @@ A clean, responsive expense tracking application built using **Flutter**, with *
 
 ## 📱 Screenshots
 
-| Home Page | Add Expense |
-|-----------|-------------|
-| ![Home](assets/screenshot1.png) | ![Add Expense](assets/screenshot2.png) |
-
-> 💡 Save your screenshots in an `assets/` folder and update paths above.
+I have added the screenshot in the assets folder
 
 ---
 
